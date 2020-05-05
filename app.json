@@ -3,7 +3,6 @@
     "name": "rn-firebase-demo",
     "slug": "rn-firebase-demo",
     "platforms": [
-      "ios",
       "android",
       "web"
     ],
@@ -21,8 +20,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
+    "android": {
+      "package": "ak.testing.rn.expo1"
     }
   }
 }
